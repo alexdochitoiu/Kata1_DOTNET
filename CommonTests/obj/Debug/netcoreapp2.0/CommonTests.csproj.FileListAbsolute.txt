@@ -1,0 +1,32 @@
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.deps.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.runtimeconfig.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.runtimeconfig.dev.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.AssemblyInfoInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.AssemblyInfo.cs
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Common.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.deps.json
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.runtimeconfig.json
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.runtimeconfig.dev.json
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.dll
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\CommonTests.pdb
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Common.dll
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.csprojResolveAssemblyReference.cache
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.csproj.CoreCompileInputs.cache
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.AssemblyInfoInputs.cache
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.AssemblyInfo.cs
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.dll
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\CommonTests\obj\Debug\netcoreapp2.0\CommonTests.pdb

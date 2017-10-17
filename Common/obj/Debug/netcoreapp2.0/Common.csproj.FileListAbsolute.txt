@@ -1,0 +1,18 @@
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\bin\Debug\netcoreapp2.0\Common.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.pdb
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\Common\bin\Debug\netcoreapp2.0\Common.dll
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\Common\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\Common\obj\Debug\netcoreapp2.0\Common.csprojResolveAssemblyReference.cache
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\Common\obj\Debug\netcoreapp2.0\Common.dll
+C:\Users\Alex Dochitoiu\Desktop\Kata1\Solution4\Solution4\Common\obj\Debug\netcoreapp2.0\Common.pdb
